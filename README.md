@@ -17,7 +17,7 @@ Match data (3,479 professional matches, Nov 2023 – Jun 2026) was collected fro
 
 Three models were trained and compared: Logistic Regression, Random Forest, and XGBoost. Random Forest was selected as the deployed model, achieving a macro-averaged F1-score of 0.5718 (substantially outperforming a naive baseline of 0.3501), and 55.17% accuracy in a case study against 29 held-out MPL Philippines Season 17 matches.
 
-**Limitation:** predictions are based on draft composition only — in-game execution, player skill, and strategy are not accounted for.
+**Limitation:** predictions are based on draft composition only, in-game execution, player skill, and strategy are not accounted for.
 
 ## Project Structure
 

@@ -1,0 +1,30 @@
+match_id,date,patch,team1_picks,team2_picks,actual_winner,predicted_winner,team1_win_prob,team2_win_prob,correct
+MPLPHS17W1_0003,2026-03-21 06:30:00,2.1.61,"arlott, leomord, pharsa, claude, hilda","sora, fanny, yve, harith, chou",Team 1,Team 2,45.0,55.0,No
+MPLPHS17W1_0006,2026-03-22 09:00:00,2.1.61,"lapu-lapu, fredrinn, yve, karrie, khaleed","alice, suyou, valentina, harith, marcel",Team 2,Team 2,50.0,50.0,Yes
+MPLPHS17W2_0006,2026-03-29 09:00:00,2.1.61,"sora, suyou, yve, claude, gloo","phoveus, harley, zhuxin, moskov, hylos",Team 1,Team 2,43.0,57.0,No
+MPLPHS17W2_0007,2026-03-29 11:30:00,2.1.61,"lapu-lapu, fredrinn, kimmy, freya, chip","phoveus, uranus, valentina, karrie, kaja",Team 2,Team 1,56.0,44.0,No
+MPLPHS17W3_0004,2026-04-11 09:00:00,2.1.61,"uranus, harley, valentina, karrie, kalea","arlott, guinevere, pharsa, claude, gloo",Team 2,Team 1,54.0,46.0,No
+MPLPHS17W3_0007,2026-04-12 11:30:00,2.1.61,"alice, harley, valentina, yi sun-shin, khaleed","lapu-lapu, guinevere, zhuxin, harith, gloo",Team 1,Team 2,44.0,56.0,No
+MPLPHS17W4_0002,2026-04-17 11:30:00,2.1.61,"valentina, harley, zetian, karrie, chou","phoveus, baxia, valir, clint, kalea",Team 2,Team 2,50.0,50.0,Yes
+MPLPHS17W4_0003,2026-04-18 06:30:00,2.1.61,"alice, suyou, zhuxin, karrie, kalea","phoveus, harley, yve, claude, khaleed",Team 2,Team 1,51.0,49.0,No
+MPLPHS17W4_0005,2026-04-18 11:30:00,2.1.61,"sora, suyou, valentina, claude, grock","lapu-lapu, guinevere, pharsa, karrie, kalea",Team 1,Team 2,49.0,51.0,No
+MPLPHS17W4_0006,2026-04-19 09:00:00,2.1.61,"uranus, suyou, zhuxin, claude, hylos","alice, harley, luo yi, karrie, khaleed",Team 1,Team 2,46.0,54.0,No
+MPLPHS17W4_0007,2026-04-19 11:30:00,2.1.61,"sora, harley, valentina, moskov, khaleed","lapu-lapu, baxia, kimmy, harith, badang",Team 2,Team 2,32.0,68.0,Yes
+MPLPHS17W5_0001,2026-04-24 09:00:00,2.1.61,"phoveus, harley, valentina, karrie, chou","uranus, yi sun-shin, pharsa, freya, hylos",Team 2,Team 2,50.0,50.0,Yes
+MPLPHS17W5_0003,2026-04-25 06:30:00,2.1.61,"arlott, baxia, zhuxin, obsidia, hylos","freya, leomord, lylia, granger, khaleed",Team 2,Team 2,49.0,51.0,Yes
+MPLPHS17W5_0003,2026-04-25 06:30:00,2.1.61,"yu zhong, harley, zhuxin, bruno, hylos","phoveus, lancelot, lylia, claude, chou",Team 1,Team 1,53.0,47.0,Yes
+MPLPHS17W5_0005,2026-04-25 11:30:00,2.1.61,"terizla, leomord, zhuxin, karrie, hylos","phoveus, uranus, kimmy, yi sun-shin, khaleed",Team 1,Team 1,60.0,40.0,Yes
+MPLPHS17W6_0004,2026-05-02 09:00:00,2.1.61,"gloo, harley, yve, karrie, khufra","arlott, fanny, zhuxin, bruno, hylos",Team 2,Team 2,50.0,50.0,Yes
+MPLPHS17W6_0005,2026-05-02 11:30:00,2.1.61,"thamuz, fredrinn, zhuxin, claude, badang","hilda, harley, valentina, karrie, khaleed",Team 2,Team 1,55.0,45.0,No
+MPLPHS17W6_0005,2026-05-02 11:30:00,2.1.61,"terizla, suyou, valentina, harith, hylos","alice, leomord, zhuxin, claude, khaleed",Team 2,Team 1,63.0,37.0,No
+MPLPHS17W7_0006,2026-05-10 09:00:00,2.1.61,"hilda, leomord, valentina, moskov, marcel","terizla, suyou, yve, claude, kalea",Team 2,Team 2,30.0,70.0,Yes
+MPLPHS17W8_0001,2026-05-15 09:00:00,2.1.61,"lapu-lapu, guinevere, valentina, claude, hilda","terizla, harley, zhuxin, yi sun-shin, marcel",Team 1,Team 2,39.0,61.0,No
+MPLPHS17W8_0004,2026-05-16 09:00:00,2.1.61,"uranus, harley, zhuxin, granger, marcel","arlott, fredrinn, valentina, claude, gloo",Team 2,Team 2,40.0,60.0,Yes
+MPLPHS17W8_0007,2026-05-17 11:30:00,2.1.61,"phoveus, harley, valentina, claude, gatotkaca","lapu-lapu, leomord, selena, moskov, marcel",Team 1,Team 2,46.0,54.0,No
+MPLPHS17PL_R01-M002,2026-05-27 12:00:00,2.1.61,"alice, leomord, gord, claude, kalea","uranus, suyou, selena, harith, hylos",Team 1,Team 1,56.0,44.0,Yes
+MPLPHS17PL_R02-M001,2026-05-28 07:00:00,2.1.61,"arlott, guinevere, valentina, roger, gloo","alice, leomord, luo yi, claude, kalea",Team 2,Team 2,50.0,50.0,Yes
+MPLPHS17PL_R02-M003,2026-05-29 11:25:00,2.1.61,"benedetta, baxia, zhuxin, obsidia, gloo","paquito, lancelot, yve, claude, atlas",Team 2,Team 2,43.0,57.0,Yes
+MPLPHS17PL_R02-M003,2026-05-29 11:25:00,2.1.61,"lapu-lapu, fredrinn, yve, karrie, hylos","alice, suyou, kimmy, freya, khaleed",Team 1,Team 1,55.0,45.0,Yes
+MPLPHS17PL_R03-M001,2026-05-29 07:00:00,2.1.61,"lapu-lapu, baxia, luo yi, claude, atlas","phoveus, lancelot, yve, karrie, chou",Team 2,Team 1,54.0,46.0,No
+MPLPHS17PL_R03-M002,2026-05-30 09:00:00,2.1.61,"lapu-lapu, leomord, zhuxin, karrie, kalea","alice, suyou, yve, claude, gloo",Team 2,Team 2,48.0,52.0,Yes
+MPLPHS17PL_R04-M001,2026-05-31 09:00:00,2.1.61,"paquito, fredrinn, gord, harith, gloo","esmeralda, suyou, zhuxin, claude, badang",Team 1,Team 1,76.0,24.0,Yes
